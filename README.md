@@ -1,16 +1,13 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**soyoonjeong2328/soyoonjeong2328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoyoonjeong2328&count_bg=%23ACB1D6&title_bg=%238294C4&icon=&icon_color=%23FFEAD2&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)               
+</div>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyoonjeong2328&show_icons=true&theme=date_night)
+
+</div>
+
