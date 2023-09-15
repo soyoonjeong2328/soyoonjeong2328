@@ -7,7 +7,7 @@
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyoonjeong2328&show_icons=true&theme=date_night)
+[//]: # (![Anurag's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=soyoonjeong2328&show_icons=true&theme=date_night&#41;)
 
 </div>
 
