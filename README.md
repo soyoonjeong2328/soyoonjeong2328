@@ -24,11 +24,11 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>&nbsp
 </p>
 
-
+<!--
 <h3 align="center"> BackJoon </h3>
 <p align="center">
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wd1336syj)](https://solved.ac/wd1336syj)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wd1336syj)](https://solved.ac/wd1336syj) -->
 
 </p>
 
